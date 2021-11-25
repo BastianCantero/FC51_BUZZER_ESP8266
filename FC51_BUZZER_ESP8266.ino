@@ -3,12 +3,12 @@
 #include <FirebaseESP8266.h>
 
 //Declaramos variable de acceso al proyecto en Firebase
-#define FIREBASE_HOST "https://esp8266-34b56-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "PEcBJqNci7XGulmbRgUdk91wiPOGXcr1fRWKyvO0"
+#define FIREBASE_HOST "** FIREBASE_HOST HERE **"
+#define FIREBASE_AUTH "** FIREBASE_AUTH HERE **"
 
 //Declaramos variable de acceso a la red WIFI
-#define WIFI_SSID "BFCA"
-#define WIFI_PASSWORD "79800849"
+#define WIFI_SSID "** WIFI_SSID HERE **"
+#define WIFI_PASSWORD "** WIFI_PASSWORD HERE **"
 
 FirebaseData firebaseData;
 
